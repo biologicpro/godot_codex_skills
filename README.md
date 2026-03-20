@@ -1,5 +1,8 @@
 # godo_codex_skills
 
+
+### 這是使用Codex生成Skills, use at ur own risk !!
+
 Godot 工作流用的開源 Codex skills 套件。
 
 ## Included Skills
