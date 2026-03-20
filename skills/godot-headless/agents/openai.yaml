@@ -1,0 +1,4 @@
+interface:
+  display_name: "Godot Headless"
+  short_description: "Run reusable Godot headless project checks"
+  default_prompt: "Use $godot-headless to run a headless startup or scene validation for this Godot project."
